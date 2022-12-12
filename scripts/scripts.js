@@ -92,4 +92,4 @@ function changeDuration(){
     durationText.innerHTML = duration;
     recalculate();
 }
-durationButton.addEventListener("click", changeDuration)
+durationButton.addEventListener("click", changeDuration);
